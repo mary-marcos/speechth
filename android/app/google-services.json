@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68363658722",
+    "project_id": "speechth-71f2d",
+    "storage_bucket": "speechth-71f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68363658722:android:30fffdd25edc1f84f145bb",
+        "android_client_info": {
+          "package_name": "com.example.speechth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68363658722-02v3ei6lu238soo3dt6066nbdpmn3r6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYKxOuNODpOmI2RChXq4l6EHRSd9NcNrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68363658722-02v3ei6lu238soo3dt6066nbdpmn3r6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

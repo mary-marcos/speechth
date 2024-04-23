@@ -1,0 +1,388 @@
+[
+  {
+    "level": 1,
+    "testsNum": 6,
+    "categories": [
+      {
+        "id": 1,
+        "tests": [
+          {
+            "id": 1,
+            "testNum": 1,
+            "audio": "assets/testAudio/char/ba2.mp3",
+            "points": 1,
+            "nextTest": 2,
+            "recognition": [
+              "باء",
+              "ب",
+              "به",
+              "بيه"
+            ]
+          },
+          {
+            "id": 2,
+            "testNum": 2,
+            "audio": "assets/testAudio/char/ba2.mp3",
+            "nextTest": 3,
+            "points": 1,
+            "recognition": [
+              "باء",
+              "ب",
+              "به",
+              "بيه"
+            ]
+          },
+          {
+            "id": 3,
+            "testNum": 3,
+            "audio": "assets/testAudio/char/ba2.mp3",
+            "points": 1,
+            "nextCategory": 2,
+            "images": [
+              {
+                "image": "assets/testImages/char/ba2.jpg",
+                "isAnswer": true
+              },
+              {
+                "image": "assets/testImages/char/mem.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/char/sen.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/char/ta2.jpg",
+                "isAnswer": false
+              }
+            ],
+            "recognition": [
+              "أ",
+              "ب",
+              "ك",
+              "ت"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "tests": [
+          {
+            "id": 1,
+            "testNum": 4,
+            "audio": "assets/testAudio/char/alf.mp3",
+            "points": 1,
+            "nextTest": 2,
+            "recognition": [
+              "الف",
+              "أ",
+              "ا",
+              "الالف"
+            ]
+          },
+          {
+            "id": 2,
+            "nextTest": 3,
+            "testNum": 5,
+            "audio": "assets/testAudio/char/alf.mp3",
+            "points": 1,
+            "recognition": [
+              "الف",
+              "أ",
+              "ا",
+              "الالف"
+            ]
+          },
+          {
+            "id": 3,
+            "testNum": 6,
+            "audio": "assets/testAudio/char/alf.mp3",
+            "points": 1,
+            "isLast": true,
+            "nextLevel": 2,
+            "images": [
+              {
+                "image": "assets/testImages/char/alf.jpg",
+                "isAnswer": true
+              },
+              {
+                "image": "assets/testImages/char/mem.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/char/sen.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/char/ta2.jpg",
+                "isAnswer": false
+              }
+            ],
+            "recognition": [
+              "أ",
+              "ب",
+              "ك",
+              "ت"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "testsNum": 6,
+    "categories": [
+      {
+        "id": 1,
+        "tests": [
+          {
+            "id": 1,     "testNum": 1,
+            "audio": "assets/testAudio/alwan/black.mp3",
+            "points": 1,
+            "nextTest": 2,
+            "recognition": [
+              "اسود",
+              "أسود",
+              "اسودة",
+              "اسواد"
+            ]
+          },
+          {
+            "id": 2,     "testNum": 2,
+            "audio": "assets/testAudio/alwan/black.mp3",
+            "points": 1,
+            "nextTest": 3,
+            "recognition": [
+              "اسود",
+              "أسود",
+              "اسودة",
+              "اسواد"
+            ]
+          },
+          {
+            "id": 3,     "testNum": 3,
+            "audio": "assets/testAudio/alwan/black.mp3",
+            "nextCategory": 2,
+            "images": [
+              {
+                "image": "assets/testImages/alwan/green.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/alwan/red.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/alwan/white.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/alwan/black.jpg",
+                "isAnswer": true
+              }
+            ],
+            "points": 1,
+            "recognition": [
+              "اسود",
+              "أسود",
+              "اسودة",
+              "اسواد"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "tests": [
+          {
+            "id": 1,     "testNum": 4,
+            "audio": "assets/testAudio/alwan/red.mp3",
+            "nextTest": 2,
+            "points": 1,
+            "recognition": [
+              "احمر",
+              "أحمر",
+              "الاحمر",
+              "احمير"
+            ]
+          },
+          {
+            "id": 2,     "testNum": 5,
+            "audio": "assets/testAudio/alwan/red.mp3",
+            "points": 1,
+            "nextTest": 3,
+            "recognition": [
+              "احمر",
+              "أحمر",
+              "الاحمر",
+              "احمير"
+            ]
+          },
+          {
+            "id": 3,     "testNum": 6,
+            "audio": "assets/testAudio/alwan/red.mp3",
+            "isLast": true,     "nextLevel": 3,
+            "images": [
+              {
+                "image": "assets/testImages/alwan/red.jpg",
+                "isAnswer": true
+              },
+              {
+                "image": "assets/testImages/alwan/green.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/alwan/black.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/alwan/white.jpg",
+                "isAnswer": false
+              }
+            ],
+            "points": 1,
+            "recognition": [
+              "احمر",
+              "أحمر",
+              "الاحمر",
+              "احمير"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "testsNum": 6,
+    "categories": [
+      {
+        "id": 1,
+        "tests": [
+          {
+            "id": 1,
+            "testNum": 1,
+            "audio": "assets/testAudio/char/ba2.mp3",
+            "points": 1,
+            "nextTest": 2,
+            "recognition": [
+              "باء",
+              "ب",
+              "به",
+              "بيه"
+            ]
+          },
+          {
+            "id": 2,
+            "testNum": 2,
+            "audio": "assets/testAudio/char/ba2.mp3",
+            "nextTest": 3,
+            "points": 1,
+            "recognition": [
+              "باء",
+              "ب",
+              "به",
+              "بيه"
+            ]
+          },
+          {
+            "id": 3,
+            "testNum": 3,
+            "audio": "assets/testAudio/char/ba2.mp3",
+            "points": 1,
+            "nextCategory": 2,
+            "images": [
+              {
+                "image": "assets/testImages/char/ba2.jpg",
+                "isAnswer": true
+              },
+              {
+                "image": "assets/testImages/char/mem.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/char/sen.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/char/ta2.jpg",
+                "isAnswer": false
+              }
+            ],
+            "recognition": [
+              "أ",
+              "ب",
+              "ك",
+              "ت"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "tests": [
+          {
+            "id": 1,
+            "testNum": 4,
+            "audio": "assets/testAudio/char/alf.mp3",
+            "points": 1,
+            "nextTest": 2,
+            "recognition": [
+              "الف",
+              "أ",
+              "ا",
+              "الالف"
+            ]
+          },
+          {
+            "id": 2,
+            "nextTest": 3,
+            "testNum": 5,
+            "audio": "assets/testAudio/char/alf.mp3",
+            "points": 1,
+            "recognition": [
+              "الف",
+              "أ",
+              "ا",
+              "الالف"
+            ]
+          },
+          {
+            "id": 3,
+            "testNum": 6,
+            "audio": "assets/testAudio/char/alf.mp3",
+            "points": 1,
+            "isLast": true,
+            "nextLevel": 4,
+            "images": [
+              {
+                "image": "assets/testImages/char/alf.jpg",
+                "isAnswer": true
+              },
+              {
+                "image": "assets/testImages/char/mem.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/char/sen.jpg",
+                "isAnswer": false
+              },
+              {
+                "image": "assets/testImages/char/ta2.jpg",
+                "isAnswer": false
+              }
+            ],
+            "recognition": [
+              "أ",
+              "ب",
+              "ك",
+              "ت"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

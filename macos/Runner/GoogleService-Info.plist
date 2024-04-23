@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>244962961842-i5kq1bundcv4fk0u76eoa493vbopa8v4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.244962961842-i5kq1bundcv4fk0u76eoa493vbopa8v4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>244962961842-jakibsa92okl4k5qql118q5v34ea0ead.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDieMhJui4bvEBP3Z7FxohBuTvCFbfDweQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>244962961842</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.speechth.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>speechth-83058</string>
+	<key>STORAGE_BUCKET</key>
+	<string>speechth-83058.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:244962961842:ios:049fcf1d38bd85a46cdcab</string>
+</dict>
+</plist>

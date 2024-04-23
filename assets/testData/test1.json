@@ -1,0 +1,9 @@
+{
+  "audio": "assets/testAudio/alf.mp3",
+  "recognition": [
+    "ألالف",
+    "الف",
+    "أ",
+    "ا"
+  ]
+}
